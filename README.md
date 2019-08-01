@@ -1,2 +1,2 @@
 # Dialogflow_KnowledgeBase
-Managing Dialogflow knowledge base - Knowledge connectors on a cognitive chatbot
+Using Python to manage Dialogflow knowledge base - Knowledge connectors on a cognitive chatbot
